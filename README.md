@@ -13,7 +13,7 @@ This is a tiny XML parser  that parses basic XML files written in about 170 SLOC
 
 It can parse tags, tag attributes, tag content (with some quirks, like no whitespace/NL stripping). It's a strict parser, so it will strictly check values of all attribute keys, of all tag names, and will ensure all opened tags are closed.
 
-# What doesn't it do?
+## What doesn't it do?
 
 - Comments
 - Anything not mentionned above and part of the XML spec
