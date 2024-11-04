@@ -1,0 +1,96 @@
+<library>
+    <book id="1" language="English" availability="In Stock">
+        <title>The Great Gatsby</title>
+        <author nationality="American">F. Scott Fitzgerald</author>
+        <year published-format="Hardcover">1925</year>
+        <genre>Fiction</genre>
+        <publisher established-year="1846">
+            <name>Charles Scribner's Sons</name>
+            <location country="USA">New York</location>
+        </publisher>
+        <reviews>
+            <review date="2023-05-12">
+                <reviewer age="35">John Doe</reviewer>
+                <rating scale="1-5">5</rating>
+                <comment>A timeless classic that captures the essence of the American Dream.</comment>
+            </review>
+            <review date="2023-06-01">
+                <reviewer age="29">Jane Smith</reviewer>
+                <rating scale="1-5">4</rating>
+                <comment>Beautifully written but tragic.</comment>
+            </review>
+        </reviews>
+    </book>
+    <book id="2" language="English" availability="Out of Stock">
+        <title>To Kill a Mockingbird</title>
+        <author nationality="American">Harper Lee</author>
+        <year published-format="Paperback">1960</year>
+        <genre>Fiction</genre>
+        <publisher established-year="1836">
+            <name>J.B. Lippincott & Co.</name>
+            <location country="USA">Philadelphia</location>
+        </publisher>
+        <reviews>
+            <review date="2023-04-20">
+                <reviewer age="42">Samuel Green</reviewer>
+                <rating scale="1-5">5</rating>
+                <comment>A powerful exploration of race and justice.</comment>
+            </review>
+        </reviews>
+    </book>
+    <book id="3" language="English" availability="Limited">
+        <title>1984</title>
+        <author nationality="British">George Orwell</author>
+        <year published-format="E-book">1949</year>
+        <genre>Dystopian</genre>
+        <publisher established-year="1935">
+            <name>Secker & Warburg</name>
+            <location country="UK">London</location>
+        </publisher>
+        <awards>
+            <award type="Literary">
+                <name>Prometheus Hall of Fame Award</name>
+                <year>1984</year>
+            </award>
+        </awards>
+        <reviews>
+            <review date="2023-03-10">
+                <reviewer age="37">Alice Brown</reviewer>
+                <rating scale="1-5">5</rating>
+                <comment>A chilling and thought-provoking read.</comment>
+            </review>
+            <review date="2023-07-18">
+                <reviewer age="45">Mark Lee</reviewer>
+                <rating scale="1-5">4</rating>
+                <comment>A powerful message, though dark and unsettling.</comment>
+            </review>
+        </reviews>
+    </book>
+    <book id="4" language="English" availability="In Stock">
+        <title>Pride and Prejudice</title>
+        <author nationality="British">Jane Austen</author>
+        <year published-format="Hardcover">1813</year>
+        <genre>Romance</genre>
+        <publisher established-year="1800">
+            <name>T. Egerton, Whitehall</name>
+            <location country="UK">London</location>
+        </publisher>
+        <adaptations>
+            <adaptation type="Film" format="Color">
+                <year>2005</year>
+                <director nationality="British">Joe Wright</director>
+            </adaptation>
+            <adaptation type="TV Series" format="Color">
+                <year>1995</year>
+                <director nationality="British">Simon Langton</director>
+            </adaptation>
+        </adaptations>
+        <reviews>
+            <review date="2023-02-25">
+                <reviewer age="31">Emily White</reviewer>
+                <rating scale="1-5">5</rating>
+                <comment>An enduring romance with witty dialogue and rich characters.</comment>
+            </review>
+        </reviews>
+    </book>
+</library>
